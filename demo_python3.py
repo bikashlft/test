@@ -1,7 +1,7 @@
 
 def print_something():
     print("hello")
-    print("world1")
+    print("world2")
 
 
 def main():
